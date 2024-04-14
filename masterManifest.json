@@ -1,5 +1,8 @@
-{
-  "Skyrim": {
-    "1.3.667": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"
+[
+  {
+    "Game": "Skyrim",
+    Versions: [
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"}
+    ]
   }
-}
+]
