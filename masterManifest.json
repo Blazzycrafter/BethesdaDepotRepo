@@ -2,6 +2,18 @@
   {
     "Game": "Skyrim",
     "Versions": [
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"}
+    ]
+  },
+  {
+    "Game": "Fallout 4",
+    "Versions": [
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
+      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
       {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"}
     ]
   }
