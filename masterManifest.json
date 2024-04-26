@@ -11,10 +11,7 @@
   {
     "Game": "Fallout 4",
     "Versions": [
-      {"Version": "1.3.667", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/SKYRIMv1.3.667.json"},
-      {"Version": "__DEMO__1.3.668", "URI": "__DEMO__"},
-      {"Version": "__DEMO__1.3.669", "URI": "__DEMO__"},
-      {"Version": "__DEMO__1.3.800", "URI": "__DEMO__"}
+      {"Version": "1.10.163.0", "URI": "https://raw.githubusercontent.com/Blazzycrafter/BethesdaDepotRepo/main/Fallout4v1.10.163.0.json"}
     ]
   }
 ]
