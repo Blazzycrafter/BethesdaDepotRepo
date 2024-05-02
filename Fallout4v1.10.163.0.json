@@ -1,8 +1,88 @@
 {
-  "GameName": "Fallout 4",
-  "GameVersion": "1.10.163.0",
+  "Name": "Fallout 4",
+  "Version": "1.10.163.0",
+  "Languages": ["en"],
   "SteamData": {
-    "AppId": 377160,
-    "Manifests": [377162, 377161, 377163, 377164, 435870, 435871, 435880]
+    "AppID": 377160,
+    "Base": [
+      {
+        "DepotId": 377161,
+        "ManifestId": 7497069378349273908
+      },
+      {
+        "DepotId": 377163,
+        "ManifestId": 5819088023757897745
+      },
+      {
+        "DepotId": 377162,
+        "ManifestId": 5847529232406005096
+      }
+    ],
+    "Language": {
+      "en": [
+        {
+          "type": "Base",
+          "DepotId": 377164,
+          "ManifestId": 2178106366609958945
+        },
+        {
+          "type": "Automatron",
+          "DepotId": 435870,
+          "ManifestId": 1691678129192680960
+        },
+        {
+          "type": "Far Harbor",
+          "DepotId": 435882,
+          "ManifestId": 8482181819175811242
+        },
+        {
+          "type": "Vault-Tec Workshop",
+          "DepotId": 393885,
+          "ManifestId": 5000262035721758737
+        },
+        {
+          "type": "Nuka World",
+          "DepotId": 393895,
+          "ManifestId": 7677765994120765493
+        }
+      ]
+    },
+    "DLC": [
+      {
+        "Name": "Automatron",
+        "DepotId": 435870,
+        "ManifestId": 1691678129192680960
+      },
+      {
+        "Name": "Wasteland Workshop",
+        "DepotId": 435880,
+        "ManifestId": 1255562923187931216
+      },
+      {
+        "Name": "Far Harbor",
+        "DepotId": 435881,
+        "ManifestId": 1207717296920736193
+      },
+      {
+        "Name": "Contraptions Workshop",
+        "DepotId": 480630,
+        "ManifestId": 5527412439359349504
+      },
+      {
+        "Name": "Vault-Tec Workshop",
+        "DepotId": 480631,
+        "ManifestId": 6588493486198824788
+      },
+      {
+        "Name": "Nuka World",
+        "DepotId": 490650,
+        "ManifestId": 4873048792354485093
+      },
+      {
+        "Name": "HD Texture Pack",
+        "DepotId": 540810,
+        "ManifestId": 1558929737289295473
+      }
+    ]
   }
 }
